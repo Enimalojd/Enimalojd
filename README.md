@@ -1,6 +1,6 @@
 <div align="center">
   <div id="header">
-    <img autoplay="autoplay" src="https://media.discordapp.net/attachments/748913247154995233/1143908259753902080/uG1fmT5d_thumb.gif?ex=65ccc815&is=65ba5315&hm=bbe57c7afdf0d3103a2f89ba5e4d89c7e33b24dbc8fd9efd17cdb5bb63caf6a7&"  width="300"/>
+    <img autoplay="autoplay" src="https://imgur.com/a/NhOtctt"  width="300"/>
 </div>
  <div align="center" id="badges">
     <a href="mailto:enderston8@gmail.com">
